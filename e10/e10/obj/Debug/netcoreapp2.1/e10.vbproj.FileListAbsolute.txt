@@ -1,0 +1,10 @@
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e10\e10\bin\Debug\netcoreapp2.1\e10.deps.json
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e10\e10\bin\Debug\netcoreapp2.1\e10.runtimeconfig.json
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e10\e10\bin\Debug\netcoreapp2.1\e10.runtimeconfig.dev.json
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e10\e10\bin\Debug\netcoreapp2.1\e10.dll
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e10\e10\bin\Debug\netcoreapp2.1\e10.pdb
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e10\e10\obj\Debug\netcoreapp2.1\e10.vbproj.CoreCompileInputs.cache
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e10\e10\obj\Debug\netcoreapp2.1\e10.AssemblyInfoInputs.cache
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e10\e10\obj\Debug\netcoreapp2.1\e10.AssemblyInfo.vb
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e10\e10\obj\Debug\netcoreapp2.1\e10.dll
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e10\e10\obj\Debug\netcoreapp2.1\e10.pdb

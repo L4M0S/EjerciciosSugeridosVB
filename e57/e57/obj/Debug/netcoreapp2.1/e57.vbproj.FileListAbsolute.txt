@@ -1,0 +1,11 @@
+C:\Users\lamos\source\repos\e57\e57\obj\Debug\netcoreapp2.1\e57.vbprojAssemblyReference.cache
+C:\Users\lamos\source\repos\e57\e57\obj\Debug\netcoreapp2.1\e57.vbproj.CoreCompileInputs.cache
+C:\Users\lamos\source\repos\e57\e57\obj\Debug\netcoreapp2.1\e57.AssemblyInfoInputs.cache
+C:\Users\lamos\source\repos\e57\e57\obj\Debug\netcoreapp2.1\e57.AssemblyInfo.vb
+C:\Users\lamos\source\repos\e57\e57\bin\Debug\netcoreapp2.1\e57.deps.json
+C:\Users\lamos\source\repos\e57\e57\bin\Debug\netcoreapp2.1\e57.runtimeconfig.json
+C:\Users\lamos\source\repos\e57\e57\bin\Debug\netcoreapp2.1\e57.runtimeconfig.dev.json
+C:\Users\lamos\source\repos\e57\e57\bin\Debug\netcoreapp2.1\e57.dll
+C:\Users\lamos\source\repos\e57\e57\bin\Debug\netcoreapp2.1\e57.pdb
+C:\Users\lamos\source\repos\e57\e57\obj\Debug\netcoreapp2.1\e57.dll
+C:\Users\lamos\source\repos\e57\e57\obj\Debug\netcoreapp2.1\e57.pdb

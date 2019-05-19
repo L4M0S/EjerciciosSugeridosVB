@@ -1,0 +1,11 @@
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\Romanos\Romanos\bin\Debug\netcoreapp2.1\Romanos.deps.json
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\Romanos\Romanos\bin\Debug\netcoreapp2.1\Romanos.runtimeconfig.json
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\Romanos\Romanos\bin\Debug\netcoreapp2.1\Romanos.runtimeconfig.dev.json
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\Romanos\Romanos\bin\Debug\netcoreapp2.1\Romanos.dll
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\Romanos\Romanos\bin\Debug\netcoreapp2.1\Romanos.pdb
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\Romanos\Romanos\obj\Debug\netcoreapp2.1\Romanos.vbprojAssemblyReference.cache
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\Romanos\Romanos\obj\Debug\netcoreapp2.1\Romanos.vbproj.CoreCompileInputs.cache
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\Romanos\Romanos\obj\Debug\netcoreapp2.1\Romanos.AssemblyInfoInputs.cache
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\Romanos\Romanos\obj\Debug\netcoreapp2.1\Romanos.AssemblyInfo.vb
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\Romanos\Romanos\obj\Debug\netcoreapp2.1\Romanos.dll
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\Romanos\Romanos\obj\Debug\netcoreapp2.1\Romanos.pdb

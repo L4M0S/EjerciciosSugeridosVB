@@ -1,0 +1,4 @@
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e20\e20\obj\Debug\netcoreapp2.1\e20.vbproj.CoreCompileInputs.cache
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e20\e20\obj\Debug\netcoreapp2.1\e20.AssemblyInfoInputs.cache
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e20\e20\obj\Debug\netcoreapp2.1\e20.AssemblyInfo.vb
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e20\e20\obj\Debug\netcoreapp2.1\e20.vbprojAssemblyReference.cache

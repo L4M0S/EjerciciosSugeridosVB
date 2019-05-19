@@ -1,0 +1,10 @@
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e2\e2\bin\Debug\netcoreapp2.1\e2.deps.json
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e2\e2\bin\Debug\netcoreapp2.1\e2.runtimeconfig.json
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e2\e2\bin\Debug\netcoreapp2.1\e2.runtimeconfig.dev.json
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e2\e2\bin\Debug\netcoreapp2.1\e2.dll
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e2\e2\bin\Debug\netcoreapp2.1\e2.pdb
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e2\e2\obj\Debug\netcoreapp2.1\e2.vbproj.CoreCompileInputs.cache
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e2\e2\obj\Debug\netcoreapp2.1\e2.AssemblyInfoInputs.cache
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e2\e2\obj\Debug\netcoreapp2.1\e2.AssemblyInfo.vb
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e2\e2\obj\Debug\netcoreapp2.1\e2.dll
+C:\Users\lamos\source\repos\EjerciciosSugeridosVB\e2\e2\obj\Debug\netcoreapp2.1\e2.pdb

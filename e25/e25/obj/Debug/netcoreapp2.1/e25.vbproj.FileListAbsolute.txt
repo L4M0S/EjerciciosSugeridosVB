@@ -1,0 +1,10 @@
+C:\Users\lamos\source\repos\e25\e25\bin\Debug\netcoreapp2.1\e25.deps.json
+C:\Users\lamos\source\repos\e25\e25\bin\Debug\netcoreapp2.1\e25.runtimeconfig.json
+C:\Users\lamos\source\repos\e25\e25\bin\Debug\netcoreapp2.1\e25.runtimeconfig.dev.json
+C:\Users\lamos\source\repos\e25\e25\bin\Debug\netcoreapp2.1\e25.dll
+C:\Users\lamos\source\repos\e25\e25\bin\Debug\netcoreapp2.1\e25.pdb
+C:\Users\lamos\source\repos\e25\e25\obj\Debug\netcoreapp2.1\e25.vbproj.CoreCompileInputs.cache
+C:\Users\lamos\source\repos\e25\e25\obj\Debug\netcoreapp2.1\e25.AssemblyInfoInputs.cache
+C:\Users\lamos\source\repos\e25\e25\obj\Debug\netcoreapp2.1\e25.AssemblyInfo.vb
+C:\Users\lamos\source\repos\e25\e25\obj\Debug\netcoreapp2.1\e25.dll
+C:\Users\lamos\source\repos\e25\e25\obj\Debug\netcoreapp2.1\e25.pdb
